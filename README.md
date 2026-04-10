@@ -82,6 +82,7 @@ O script utiliza bibliotecas padrão para engenharia de dados.
 
 1.  **Requisitos:**
 
+      * Scilab 2026
       * Python 3.8+
       * Pandas
       * Matplotlib
@@ -182,6 +183,7 @@ The script uses standard libraries for data engineering.
 
 1.  **Requirements:**
 
+      * Scilab 2026
       * Python 3.8+
       * Pandas
       * Matplotlib
