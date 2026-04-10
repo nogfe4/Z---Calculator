@@ -2,6 +2,7 @@
 
 # Calculadora de Fator de Compressibilidade (Z)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Scilab](https://img.shields.io/badge/Scilab-6.1-0e6db5)
 ![Status](https://img.shields.io/badge/Status-Em_Andamento-yellow)  
 
 ## Author: @Nogfe4 - Chemical Engineering Student
